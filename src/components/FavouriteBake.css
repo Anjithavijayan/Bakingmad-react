@@ -1,0 +1,9 @@
+
+    .fav_bake{
+        transition: 500ms;
+       
+    }
+    .fav_bake:hover{
+        transform:translate(-35%)
+        
+    }

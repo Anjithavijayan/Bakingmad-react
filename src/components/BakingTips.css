@@ -1,0 +1,8 @@
+.ba_img{
+    transition: 500ms;
+   
+}
+.ba_img:hover{
+    transform: scale(1.02);
+    
+}

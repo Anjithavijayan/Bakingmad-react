@@ -1,0 +1,8 @@
+.receipe_img{
+    transition: 500ms;
+   
+}
+.receipe_img:hover{
+    transform: scale(1.02);
+    
+}
